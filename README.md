@@ -54,8 +54,11 @@ Augmentation Techniques add variety to the dataset and help the model to learn m
 Different transformations applied on images:
 
 1- Zooming
+
 2- Brightness
+
 3- Shifting
+
 4- Flipping
 
 ![alt text](https://i.imgur.com/KQzenkZ.png)
