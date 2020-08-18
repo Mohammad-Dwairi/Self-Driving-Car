@@ -19,7 +19,8 @@ The Neural Network Model follows the Nvidia Model Architecture which consists of
 
 
 # Steering Angles Histogram:
-
+X-axis -> Steering Angle
+Y-axis -> Number of Samples
 ![alt text](https://i.imgur.com/uOXkYDi.png)
 
 # Balanced Steering Angles Histogram:
@@ -27,7 +28,11 @@ The training data is skewed towards the middle because most of the time the car 
 If we train the convolutional neural network based on this data, the model could become biased towards driving straight all the time.
 
 Solution: Flatten the data distribution and cut off extraneous samples for specific bins whose frequency exceed 400.
+X-axis -> Steering Angle
+Y-axis -> Number of Samples
 ![alt text](https://i.imgur.com/zDSQNv5.png)
 
 # Train-Test Split:
+X-axis -> Steering Angle
+Y-axis -> Number of Samples
 ![alt text](https://i.imgur.com/7DzRBjc.png)
