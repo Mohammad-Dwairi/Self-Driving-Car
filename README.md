@@ -18,6 +18,6 @@ The Neural Network Model follows the Nvidia Model Architecture which consists of
 
 
 
-Steering Angles Histogram:
+# Steering Angles Histogram:
 
 ![alt text](https://i.imgur.com/uOXkYDi.png)
