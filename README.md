@@ -1,6 +1,6 @@
-# Self-Driving-Car
-Self Driving Car simulation built with Tensorflow and Keras neural network library.
-The model is connected to Udacity Self Driving Car Simulator using Flask framework and socketio.
+# Self-Driving-Car Applied Deep Learining
+Self Driving Car simulation built using Tensorflow and Keras neural network library.
+The model is connected to Udacity Self Driving Car Simulator using Flask web-framework and socketio.
 
 
 
