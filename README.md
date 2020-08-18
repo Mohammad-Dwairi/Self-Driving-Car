@@ -61,3 +61,7 @@ Different transformations applied on images:
 4- Flipping
 
 ![alt text](https://i.imgur.com/KQzenkZ.png)
+
+# Model Summary
+
+![alt text](https://i.imgur.com/vlf0vjb.png)
