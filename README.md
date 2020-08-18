@@ -46,3 +46,7 @@ Y-axis -> Number of Samples
 
 # Original & Pre-Processed Image:
 ![alt text](https://i.imgur.com/k70lGex.png)
+
+# Augmentation Techniques
+
+![alt text](https://i.imgur.com/KQzenkZ.png)
