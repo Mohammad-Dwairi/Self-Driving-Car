@@ -44,7 +44,7 @@ def steering_angles_histogram(data):
     centered_at_zero = (bins[:-1] + bins[1:]) * 0.5
     plt.figure("Steering Angles")
     plt.bar(centered_at_zero, hist, width=0.05)
-    plt.plot((-1, 1), (500, 500))
+    plt.plot((-1, 1), (400, 400))
     return centered_at_zero, bins
 
 
@@ -291,4 +291,4 @@ plt.legend(['training', 'validation'])
 plt.title('Loss')
 plt.xlabel('Epoch')
 plt.show()
-model.save("model7.h5")
+model.save("model.h5")
