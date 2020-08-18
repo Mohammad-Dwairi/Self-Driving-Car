@@ -108,7 +108,6 @@ def train_test_histogram(y_train, y_valid):
     Shows how train_set and validation_set are distributed in a Histogram after calling train_test_split function
     from sklearn package.
     """
-    plt.figure("Train - Test Split")
     fig, axes = plt.subplots(1, 2, figsize=(12, 4))
     axes[0].hist(y_train, bins=25, width=0.05, color='blue')
     axes[0].set_title("Training Set")
@@ -132,7 +131,6 @@ def show_images_compare(img, img_modified):
     """
     Visualize randomly selected before and after preprocessing
     """
-    plt.figure("Before - After")
     fig, axes = plt.subplots(1, 2, figsize=(15, 10))
     fig.tight_layout()
     axes[0].imshow(img)
