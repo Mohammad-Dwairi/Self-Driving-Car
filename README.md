@@ -7,7 +7,7 @@ The model is connected to Udacity Self Driving Car Simulator using Flask framewo
 ![alt text](https://i.imgur.com/cWUbB2i.png)
 
 
-
+# Model
 The Neural Network Model follows the Nvidia Model Architecture which consists of 9 layers, including a normalization layer, 5 convolutional layers, and 3 fully connected layers. The input image is split into YUV planes and passed to the network:
 
 
