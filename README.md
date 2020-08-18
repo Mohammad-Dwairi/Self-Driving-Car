@@ -55,8 +55,6 @@ Different transformations applied on images:
 
 1- Zooming
 
-2- Change Brightness
-
 3- Shifting
 
 4- Flipping
