@@ -43,3 +43,6 @@ X-axis -> Steering Angle
 Y-axis -> Number of Samples
 
 ![alt text](https://i.imgur.com/7DzRBjc.png)
+
+# Original & Pre-Processed Image:
+![alt text](https://i.imgur.com/k70lGex.png)
