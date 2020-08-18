@@ -30,6 +30,7 @@ The training data is skewed towards the middle because most of the time the car 
 If we train the convolutional neural network based on this data, the model could become biased towards driving straight all the time.
 
 Solution: Flatten the data distribution and cut off extraneous samples for specific bins whose frequency exceed 400.
+
 X-axis -> Steering Angle
 
 Y-axis -> Number of Samples
