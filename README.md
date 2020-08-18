@@ -28,3 +28,6 @@ If we train the convolutional neural network based on this data, the model could
 
 Solution: Flatten the data distribution and cut off extraneous samples for specific bins whose frequency exceed 400.
 ![alt text](https://i.imgur.com/zDSQNv5.png)
+
+# Train-Test Split:
+![alt text](https://i.imgur.com/7DzRBjc.png)
